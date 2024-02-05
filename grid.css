@@ -1,0 +1,17 @@
+.navbar {
+  display: grid;
+  grid-template-columns: 10fr 6fr;
+  align-items: center;
+  position: fixed;
+}
+
+.main-container,
+.second-container {
+  display: grid;
+  grid-template-columns: 5fr 5fr;
+}
+
+.ceklis ul {
+  display: grid;
+  row-gap: 8px;
+}
